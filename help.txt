@@ -1,0 +1,4 @@
+Initializing intent_model
+Downloading from http://lnsigo.mipt.ru/export/embeddings/reddit_fasttext_model.bin to ./reddit_fasttext_model.bin
+
+
