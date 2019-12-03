@@ -27,7 +27,7 @@ classes = model.classes
 # Initializing preprocessor
 preprocessor = NLTKTokenizer()
 
-phrase = "I want you to add 'I love you, baby' to my playlist"
+phrase = "If payment has not been sent."
 
 # Predicting
 predictions = model.infer(preprocessor.infer(phrase))
