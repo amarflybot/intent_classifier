@@ -27,7 +27,7 @@ classes = model.classes
 # Initializing preprocessor
 preprocessor = NLTKTokenizer()
 
-phrase = "If payment has not been sent."
+phrase = "We have multiple invoice pending in Plant queue 3444 which needs urgent action."
 
 # Predicting
 predictions = model.infer(preprocessor.infer(phrase))
